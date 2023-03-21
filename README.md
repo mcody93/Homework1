@@ -1,8 +1,8 @@
 # **Betterment**
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mcody93/Homework1/blob/main/betterment-logo-vector-2023.png?raw=true">
-  <img alt="Betterment logo.">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mcody93/Homework1/blob/main/investorjunkie-robo-advisors-1.jpg?raw=true">
+  <img alt="Robo-Advisor">
 </picture>
 
 ## ***Overview and Origin***
