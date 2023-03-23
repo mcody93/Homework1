@@ -1,9 +1,4 @@
 # **Betterment**
-<picture>
-
-![Robo-advisor.](https://github.com/mcody93/Homework1/blob/main/investorjunkie-robo-advisors-1.jpg?raw=true)
-</picture>
-
 
 ## ***Overview and Origin***
 Betterment is a rob-advisory company. According to the company's website and Wikipedia, Betterment was founded in 2008 by Jon Stein and Eli Broverman and incorporated on April 7, 2009. Betterment was founded as a product of the financial crisis with an initial purpose of automatically rebalancing assets in target date funds and ultimately became the first robo-advisor as the mission evolved to support lower net worth people who typically did not have access to robust financial planning solutions with an understanding of investing and an easy to use platform with access to low cost ETFs. Investors can easily enter their personal information, risk tolerance, and financial goals and the platform generates personalized investment solutions for them. The company is currently private. According to the website and Crunchbase, Betterment has raised $435M in 10 rounds of funding (Series A through F).
