@@ -4,14 +4,14 @@
 
 
 ## ***Overview and Origin***
-Betterment is a rob-advisory company. According to the company's website and Wikipedia, Betterment was founded in 2008 by Jon Stein and Eli Broverman and incorporated on April 7, 2009. Betterment was founded as a product of the financial crisis with an initial purpose of automatically rebalancing assets in target date funds and ultimately became the first robo-advisor as the mission evolved to support lower net worth people who typically did not have access to robust financial planning solutions with an understanding of investing and an easy to use platform with access to low cost ETFs. Investors can easily enter their personal information, risk tolerance, and financial goals and the platform generates personalized investment solutions for them. The company is currently private. According to the website and Crunchbase, Betterment has raised $435M in 10 rounds of funding (Series A through F).
+Betterment is a robo-advisory company. According to the company's website and Wikipedia, Betterment was founded in 2008 by Jon Stein and Eli Broverman and incorporated on April 7, 2009. Betterment was founded as a product of the financial crisis with an initial purpose of automatically rebalancing assets in target date funds and ultimately became the first robo-advisor as the mission evolved to support lower net worth people who typically did not have access to robust financial planning solutions with an understanding of investing and an easy to use platform with access to low cost ETFs. Investors can easily enter their personal information, risk tolerance, and financial goals and the platform generates personalized investment solutions for them. The company is currently private. According to the website and Crunchbase, Betterment has raised $435M in 10 rounds of funding (Series A through F).
 
 ## ***Business Activities***
-The most critical financial issues facing Betterment (and other robo-advisories) are low margins due to the low fee structure and the relatively high costs associated with finding new clients. Given larger banks are developing similar technologies increases the aforementioned risks for companies like Betterment even more given the larger instituitons' ability to scale and access to technology.
+The most critical financial issues facing Betterment (and other robo-advisories) are low margins due to the low fee structure and the relatively high costs associated with finding new clients. Given larger banks are developing similar technologies, increases the aforementioned risks for companies like Betterment even more with the larger instituitons' immense ability to scale and access to technology.
 
 Betterment's intended customers are everyday "Main Street" investors with an extremely wide range of capital (minimum account level is $10 and a higher end premium service is available starting at $100,000). This indicates that the potential customer base is massive. According to a February 2021 article by Wealth Briefing, the current market for robo-advisory services of $2.6 trillion worldwide is expected to reach $6.2 trillion by 2027. Further supporting the high potential for growth in the space, a study referenced in Financial Advisor Magazine concluded that 63% of people who currently do not use robo-advisors suggested they would consider it in the next year. Although the survey was heavily tilted toward millenials, this is a clear sign that robo-advisors have a lot of potential to continue to increase their addressable market. 
 
-Betterment's specific competitive advantages are their low account minimums ($10 as mentioned above) and portfolio customizability relative to peers including some extremely robust goal-setting tools per Nerdwallet. 
+Betterment's specific competitive advantages are their low account minimums ($10 as mentioned above), portfolio customizability features, and robust goal-setting features relative to peers per Nerdwallet. 
 
 Betterment uses Flutter (an open-sourced UI software development kit) for their applications per the company's engineering blog. They also use Flutter to conduct end-to-end testing to ensure the systems are working as intended which is much easier via Flutter than some of the alternatives. The blog continues to detail how Betterment also implements a host of APIs.
 
@@ -25,7 +25,7 @@ According to a Business Review article from December 2022, the major trend in ro
 
 Betterment continues to respond to trends in investing. According to Investopedia, Betterment began offering a cryptocurrency offering to investors in late 2022 after a period of beta testing the platform. It is imperative for Betterment and other robo-advisories to react to trends and investor wants in order to stay competitive.
 
-Other major players in the space include large financial industry players like Vanguard Robo-Advisors and Schwab Intelligent Portfolios. However, Wealthfront, Personal Capital Advisors, Bloom, and Acorns are also smaller players in the industry. 
+Other major players in the space include large financial industry players like Vanguard Robo-Advisors and Schwab Intelligent Portfolios. However, Wealthfront, Personal Capital Advisors, Bloom, and Acorns are also smaller players in the industry right behind Betterment in terms of asset size. 
 
 ## ***Results***
 
