@@ -1,17 +1,14 @@
 # **Betterment**
-
 <picture>
 
 ![Robo-advisor.](https://github.com/mcody93/Homework1/blob/main/investorjunkie-robo-advisors-1.jpg?raw=true)
-<picture>
+</picture>
+
 
 ## ***Overview and Origin***
-
 Betterment is a rob-advisory company. According to the company's website and Wikipedia, Betterment was founded in 2008 by Jon Stein and Eli Broverman and incorporated on April 7, 2009. Betterment was founded as a product of the financial crisis with an initial purpose of automatically rebalancing assets in target date funds and ultimately became the first robo-advisor as the mission evolved to support lower net worth people who typically did not have access to robust financial planning solutions with an understanding of investing and an easy to use platform with access to low cost ETFs. Investors can easily enter their personal information, risk tolerance, and financial goals and the platform generates personalized investment solutions for them. The company is currently private. According to the website and Crunchbase, Betterment has raised $435M in 10 rounds of funding (Series A through F).
 
 ## ***Business Activities***
-
-
 The most critical financial issues facing Betterment (and other robo-advisories) are low margins due to the low fee structure and the relatively high costs associated with finding new clients. Given larger banks are developing similar technologies increases the aforementioned risks for companies like Betterment even more given the larger instituitons' ability to scale and access to technology.
 
 Betterment's intended customers are everyday "Main Street" investors with an extremely wide range of capital (minimum account level is $10 and a higher end premium service is available starting at $100,000). This indicates that the potential customer base is massive. According to a February 2021 article by Wealth Briefing, the current market for robo-advisory services of $2.6 trillion worldwide is expected to reach $6.2 trillion by 2027. Further supporting the high potential for growth in the space, a study referenced in Financial Advisor Magazine concluded that 63% of people who currently do not use robo-advisors suggested they would consider it in the next year. Although the survey was heavily tilted toward millenials, this is a clear sign that robo-advisors have a lot of potential to continue to increase their addressable market. 
