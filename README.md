@@ -3,7 +3,7 @@
 <picture>
 
 ![Robo-advisor.](https://github.com/mcody93/Homework1/blob/main/investorjunkie-robo-advisors-1.jpg?raw=true)
-</picture>
+<picture>
 
 ## ***Overview and Origin***
 
