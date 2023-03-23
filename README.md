@@ -2,7 +2,8 @@
 
 <picture>
 
- ![Robo-Advisor](.\investorjunkie-robo-advisors-1.jpg)
+![Robo-Advisor](.\investorjunkie-robo-advisors-1.jpg)
+</picture>
 
 ## ***Overview and Origin***
 
